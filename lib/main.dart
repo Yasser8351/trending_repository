@@ -27,15 +27,3 @@ class MyApp extends StatelessWidget {
   }
 }
 
-
-
-
-/*
-echo "# trending_repository" >> README.md
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Yasser8351/trending_repository.git
-git push -u origin main
-*/
